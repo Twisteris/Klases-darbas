@@ -1,0 +1,51 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    background-color: rgb(26, 26, 26);
+    text-align: center;
+    color: white;
+}
+.pagename{
+    font-size: 5rem;
+}
+a{
+    color: hotpink;
+    text-decoration: none;
+    transition: 0.5s;
+}
+a:hover{
+    color: rgb(158, 42, 143);
+    transition: 0.5s;
+}
+a:active {
+    color: rgb(158, 42, 42);
+  }
+h1{
+    text-align: center;
+}
+.button{
+    text-align: center;
+    font-size: 2rem;
+    padding-bottom: 50px;
+}
+.mg{
+    padding-right: 25px;
+}
+.mf{
+    padding-left: 25px;
+}
+.white{
+    color: white;
+}
+.center1{
+    border: 5px solid;
+    margin: 50px 15%;
+    padding-bottom: 20px;
+    border-color: hotpink;
+}
+.buton{
+    padding-left: 75px;
+}
+.pad{
+    padding-top: 15px;
+}
+
